@@ -87,4 +87,4 @@ describe('Social Sequelize Test', () => {
         expect(associatedUsers.length).toBe(2)  
         expect(associatedUsers instanceof Like).toBeTruthy;
 
-    })
+};})
